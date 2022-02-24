@@ -7,3 +7,6 @@ Calibración cámara: valores intrínsecos y extrínsecos
 https://docs.opencv.org/3.4/dc/dbb/tutorial_py_calibration.html
 cv.getOptimalNewCameraMatrix() - Busca esta función en el campo de undistortion
 
+Paper chulo
+https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/
+
