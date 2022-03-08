@@ -9,3 +9,6 @@ https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neura
 Detector de cara:
 -En Pytorch y tensorflow: https://paperswithcode.com/paper/finding-tiny-faces
 
+Tracker de caras
+https://google.github.io/mediapipe/solutions/face_detection
+
