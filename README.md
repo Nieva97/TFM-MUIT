@@ -12,3 +12,5 @@ Detector de cara:
 Tracker de caras
 https://google.github.io/mediapipe/solutions/face_detection
 
+https://github.com/ibrahimsarker/attention-target-detection
+
