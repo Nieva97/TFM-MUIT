@@ -14,3 +14,12 @@ https://google.github.io/mediapipe/solutions/face_detection
 
 https://github.com/ibrahimsarker/attention-target-detection
 
+https://arxiv.org/pdf/1907.02364.pdf
+
+https://curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/
+
+https://gitplanet.com/project/getting-things-done-with-pytorch
+
+https://gitplanet.com/project/ssd-pytorch1618777545
+
+
